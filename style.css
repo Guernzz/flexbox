@@ -1,0 +1,134 @@
+*{
+    margin:0;
+    background-color: white;
+}
+
+nav{
+    width: 95%;
+    float: right;
+    background-color: darkred;
+}
+
+a{
+    color: white;
+    background-color: darkred;
+    text-decoration: none;
+    transition: 0.35s;
+    margin: 10px;
+    line-height: 60px;
+    float: right;
+}
+
+.Home{
+}
+
+.imageContainer {
+    width:100%;
+    height:300px;
+    background-image: url(https://janetelizabethhenderson.com/wp-content/uploads/2019/03/cropped-red-mist-6.jpg);
+    text-align: center;
+    font-size: xxx-large;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.wrapper{
+    padding-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.wrapper2{
+    padding-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 100px;
+}
+
+.Subtitle{
+    background-color: darkred;
+    height:150px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+
+}
+
+
+
+.lorem{
+    background-color: darkred;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.centered{
+    background-color: darkred;
+    height:150px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+.wrapper3{
+    padding-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 150px;
+}
+
+
+.Subtitle2{
+    background-color: darkred;
+    height:250px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+
+.footer{
+    background-color: darkred;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.copyright{
+    font-size: large;
+    font-weight: bold;
+    background-color: darkred;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.year{
+    font-size: large;
+    font-weight: bold;
+    background-color: darkred;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
